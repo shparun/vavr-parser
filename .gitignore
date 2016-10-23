@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/.settings
+/bin
+/target
+.DS_Store
+hs_err_pid*
+*.versionsBackup
